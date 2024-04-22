@@ -1,4 +1,6 @@
-# PythonProject
+# PythonProject: Password Manager
+
+## Description
 
 I chose to create a Password Manager with CSV Storage where the user will have the options to 
 
